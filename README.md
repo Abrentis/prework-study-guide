@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Topcis are categorized and contained in their own respective boxes. For suggestions on what topics to study, refer to the console panel of the webpage, which can be accessed by using the keyboard commands Command+Option+I (macOS) or Control+Shift+I (Windows).
+Topcis are categorized and contained in their own respective boxes. For suggestions on what topics to study, refer to the console panel of the webpage, which can be accessed by using the keybaord commands Command+Option+I (macOS) or Control+Shift+I (Windows).
 
 ## Credits
 
